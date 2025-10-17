@@ -38,7 +38,7 @@ export function ProjectsSection({ language }: ProjectsSectionProps) {
           date: "2023",
         },
         {
-          title: "../../public/Trio Compound – New Cairo",
+          title: "Trio Compound – New Cairo",
           description:
             "Responsible for design review and field execution of internal plumbing and firefighting systems, ensuring compliance with mechanical standards and safety codes.",
           image: "/trio-compound.jpg",
@@ -55,7 +55,7 @@ export function ProjectsSection({ language }: ProjectsSectionProps) {
           title: "المدرسة البريطانية – 6 أكتوبر",
           description:
             "تنفيذ كامل للأنظمة الميكانيكية بما في ذلك شبكات المياه والصرف ومكافحة الحريق. إدارة مراحل التركيب والتشغيل والتسليم وفقاً لأعلى معايير الجودة.",
-          image: "/British School – 6th of October.jpeg",
+          image: "/british-school.jpg",
           tags: ["مكافحة الحريق", "شبكات المياه", "إدارة المشاريع"],
           date: "2019 – 2020",
         },
@@ -63,7 +63,7 @@ export function ProjectsSection({ language }: ProjectsSectionProps) {
           title: "مشروع مصر إيطاليا – العاصمة الإدارية الجديدة",
           description:
             "تصميم وتنفيذ شبكات البنية التحتية والسباكة الداخلية بما يشمل الري، غرف الطلمبات، وأنظمة الحريق. الإشراف على الأعمال الميكانيكية بالموقع والتنسيق بين الفرق الهندسية.",
-          image: "/Misr Italia – New Administrative Capital.jpeg",
+          image: "/misr-italia.jpg",
           tags: ["أوتوكاد", "ريفيت", "البنية التحتية", "مكافحة الحريق"],
           date: "2020 – 2022",
         },
@@ -71,7 +71,7 @@ export function ProjectsSection({ language }: ProjectsSectionProps) {
           title: "مشروع إنترادا – العاصمة الإدارية الجديدة",
           description:
             "توليت مهام كبير المهندسين في تنسيق وتنفيذ شبكات المياه والصرف ومكافحة الحريق وغرف الطلمبات، مع الإشراف الكامل ومتابعة الاعتمادات الفنية.",
-          image: "/Entrada Compound – New Administrative Capital.jpeg",
+          image: "/entrada-compound.jpg",
           tags: ["الأعمال الميكانيكية", "إشراف هندسي", "مراقبة الجودة"],
           date: "2023",
         },
@@ -79,7 +79,7 @@ export function ProjectsSection({ language }: ProjectsSectionProps) {
           title: "مشروع تريو كومباوند – القاهرة الجديدة",
           description:
             "مراجعة التصميمات والإشراف على تنفيذ الأنظمة الداخلية للسباكة والحريق بما يضمن الالتزام بالمعايير الهندسية وكود السلامة.",
-          image: "/Trio Compound – New Cairo.jpeg",
+          image: "/trio-compound.jpg",
           tags: ["السباكة", "أنظمة الحريق", "مراجعة التصميم"],
           date: "2024",
         },
