@@ -17,7 +17,7 @@ export function ProjectsSection({ language }: ProjectsSectionProps) {
           title: "British School – 6th of October",
           description:
             "Execution of full mechanical systems including water supply, fire fighting, and sewage networks. Managed installation, testing, and commissioning phases ensuring top-quality standards.",
-          image: "/British School – 6th of October.jpeg",
+          image: "/british-school.jpg",
           tags: ["Fire Fighting", "Water Supply", "Project Management"],
           date: "2019 – 2020",
         },
@@ -25,7 +25,7 @@ export function ProjectsSection({ language }: ProjectsSectionProps) {
           title: "Misr Italia – New Administrative Capital",
           description:
             "Infrastructure and internal plumbing systems including irrigation networks, pumping stations, and firefighting systems. Coordinated design and site supervision for mechanical scope.",
-          image: "/Misr Italia – New Administrative Capital.jpeg",
+          image: "/misr-italia.jpg",
           tags: ["AutoCAD", "Revit", "Infrastructure", "Fire Fighting"],
           date: "2020 – 2022",
         },
@@ -33,7 +33,7 @@ export function ProjectsSection({ language }: ProjectsSectionProps) {
           title: "Entrada Compound – New Administrative Capital",
           description:
             "Senior engineer role focusing on coordination and supervision of mechanical networks: water, sewage, fire fighting, and pump stations. Led team execution and inspection approvals.",
-          image: "/Entrada Compound – New Administrative Capital.jpg",
+          image: "/entrada-compound.jpg",
           tags: ["Mechanical Works", "QA/QC", "Supervision"],
           date: "2023",
         },
@@ -41,7 +41,7 @@ export function ProjectsSection({ language }: ProjectsSectionProps) {
           title: "../../public/Trio Compound – New Cairo",
           description:
             "Responsible for design review and field execution of internal plumbing and firefighting systems, ensuring compliance with mechanical standards and safety codes.",
-          image: "/Trio Compound – New Cairo.jpg",
+          image: "/trio-compound.jpg",
           tags: ["Plumbing", "Fire Systems", "Design Review"],
           date: "2024",
         },
