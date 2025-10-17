@@ -80,7 +80,7 @@ export function HeroSection({ language }: HeroSectionProps) {
               />
               <div className="absolute inset-4 overflow-hidden rounded-lg">
                 <img
-                  src="../../public/EngAhmed Hussain.jpg"
+                  src="EngAhmed Hussain.jpg"
                   alt="Eng. Ahmed Hussein"
                   className="w-full h-full object-cover"
                 />
